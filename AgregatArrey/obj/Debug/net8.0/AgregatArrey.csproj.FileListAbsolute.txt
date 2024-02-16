@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\bin\Debug\net8.0\AgregatArrey.exe
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\bin\Debug\net8.0\AgregatArrey.deps.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\bin\Debug\net8.0\AgregatArrey.runtimeconfig.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\bin\Debug\net8.0\AgregatArrey.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\bin\Debug\net8.0\AgregatArrey.pdb
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\AgregatArrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\AgregatArrey.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\AgregatArrey.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\AgregatArrey.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\AgregatArrey.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\refint\AgregatArrey.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\AgregatArrey.pdb
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\AgregatArrey.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\AgregatArrey\obj\Debug\net8.0\ref\AgregatArrey.dll
