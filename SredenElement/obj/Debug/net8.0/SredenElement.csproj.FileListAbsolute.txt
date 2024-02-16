@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\bin\Debug\net8.0\SredenElement.exe
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\bin\Debug\net8.0\SredenElement.deps.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\bin\Debug\net8.0\SredenElement.runtimeconfig.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\bin\Debug\net8.0\SredenElement.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\bin\Debug\net8.0\SredenElement.pdb
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\SredenElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\SredenElement.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\SredenElement.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\SredenElement.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\SredenElement.sourcelink.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\SredenElement.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\refint\SredenElement.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\SredenElement.pdb
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\SredenElement.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\SredenElement\obj\Debug\net8.0\ref\SredenElement.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArraysInputOtput/1.0.0": {
+        "runtime": {
+          "ArraysInputOtput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArraysInputOtput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

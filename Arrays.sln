@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysInputOtput", "Arrays\ArraysInputOtput.csproj", "{9882F2AA-ECAD-4B46-8FF3-8705D0301668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgregatArrey", "AgregatArrey\AgregatArrey.csproj", "{EAC4C257-8299-4208-B48C-3643E9787500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgregatArrey", "AgregatArrey\AgregatArrey.csproj", "{EAC4C257-8299-4208-B48C-3643E9787500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SredenElement", "SredenElement\SredenElement.csproj", "{7C8F2F68-8851-43F6-A931-B1075905F80A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EAC4C257-8299-4208-B48C-3643E9787500}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC4C257-8299-4208-B48C-3643E9787500}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC4C257-8299-4208-B48C-3643E9787500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8F2F68-8851-43F6-A931-B1075905F80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8F2F68-8851-43F6-A931-B1075905F80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8F2F68-8851-43F6-A931-B1075905F80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8F2F68-8851-43F6-A931-B1075905F80A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

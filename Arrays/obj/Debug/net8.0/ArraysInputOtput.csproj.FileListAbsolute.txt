@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\bin\Debug\net8.0\ArraysInputOtput.exe
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\bin\Debug\net8.0\ArraysInputOtput.deps.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\bin\Debug\net8.0\ArraysInputOtput.runtimeconfig.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\bin\Debug\net8.0\ArraysInputOtput.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\bin\Debug\net8.0\ArraysInputOtput.pdb
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ArraysInputOtput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ArraysInputOtput.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ArraysInputOtput.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ArraysInputOtput.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ArraysInputOtput.sourcelink.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ArraysInputOtput.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\refint\ArraysInputOtput.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ArraysInputOtput.pdb
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ArraysInputOtput.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Arrays\Arrays\obj\Debug\net8.0\ref\ArraysInputOtput.dll
